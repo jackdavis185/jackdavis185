@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackdavis185
 - 👀 I’m interested in fintech
-- 🌱 I’m currently learning python and sequel
+- 🌱 I’m currently learning python and SQL
 - 📫 How to reach me: jackdavis185@gmail.com
 
 <!---
